@@ -15,14 +15,14 @@ puts x
 puts y
 
 # This outputs a string, interpolated with x.
-puts "I said #{x}."
+puts "I said: #{x}."
 # This outputs a string, interpolated with y.
-puts "I also said '#{y}'."
+puts "I also said: '#{y}'."
 
 # This assigns the boolean "false" to hilarious.
 hilarious = false
 # This assigns a string with interpolation to a variable.
-joke_evaluation = "Isn't that joke so funny ?! #{hilarious}"
+joke_evaluation = "Isn't that joke so funny?! #{hilarious}"
 
 # This outputs the variable joke_evaluation.
 puts joke_evaluation
