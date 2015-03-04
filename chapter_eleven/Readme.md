@@ -19,4 +19,5 @@ As stated, you can use `.chomp` to remove both the new line character and carria
 K.
 
 ------
+
 -Ryan
